@@ -1,0 +1,52 @@
+Certificates
+"Holds a BCS PGD in IT and has completed web design and development courses, along with relevant certifications. Regularly follows up on training courses in various related industries, including UI/UX, front-end technologies, and AI tools, on platforms like Udemy and LinkedIn."
+
+Takes Initiatives..
+"Has participated in university outreach training, contributed to creating project proposals and prototypes for new clients, and collaborated with the team for knowledge sharing."
+
+Participated CEP sessions:
+"Participated in CEP sessions related to financial analysis and capital markets. Presented a domain-specific business logic training session to the team in the recent Paterson project."
+
+Contribution to team Goals...
+Actively involved in other projects focused on front-end improvements. Created a reusable React, MUI, and D3 dashboard template with additional features, making it applicable to any related project. Currently customized and used in the Profile Management System admin dashboard. Researched the OpenFin framework, which supports executing multiple native windows with components capable of cross-communicating data, and presented a demonstration to the team. Incorporated AI technologies to enhance data processing and user experience for the above developments as well.
+
+Manages Client expec....
+"Worked on multiple project technical requirements with the Paterson client, including React, Figma, and MS SharePoint. Fixed several client intranet issues and provided input to improve the usability of relevant platforms. Received positive feedback from the direct client mentor. Participated in daily agile scrum meetings and discussions. Assisted team members at Paterson with UI/UX improvements for relevant projects and provided input on front-end improvements for other Acuity projects on a regular basis."
+
+Funcitonal and skill..
+Used core technologies such as React, JavaScript, and MS SharePoint for client projects, proposals, internal projects, and research work. Worked with frameworks, libraries, and tools including MUI, AG-Grid, PowerApps, charting libraries, CSS frameworks, and OpenFin. Conducted research on the OpenFin front-end framework for the front-end team. Plan to conduct more training sessions on the latest trends. Regularly follow up on the latest trends in front-end web design and development, including AI tools, through online training, research articles, and other resources.
+
+Customer focus:
+Focused on understanding, communicating, developing, and delivering client requirements using an agile methodology. Collaborated with both internal and client-side developers in teams to achieve project goals. Worked on multiple technical requirements with the Paterson client, including React, Figma, and MS SharePoint. Fixed several client intranet issues and provided input to improve the usability of relevant platforms.
+
+Teamwork:
+Actively involved in both client and internal projects, including project proposals and prototypes, collaborating closely with the team. Provided input to improve UI/UX and coding for all front-end applications. Regularly shared knowledge with the team and contributed to continuous learning. Shared templates created using front-end technologies to help the team start projects more efficiently.
+
+Openmindset:
+Actively involved in keeping the team updated on the latest trends and frameworks in the industry, particularly in front-end design and development. Conducted research for the Paterson client on feature comparisons between React server frameworks—Next.js, Remix, and Astro. Researched and implemented a sample prototype in OpenFin features based on React, then demonstrated the findings to the internal front-end team.
+
+Excellence:
+Provided outstanding technological support to the client and internal team across various projects, ensuring high-quality results. Researched and shared the latest findings with the team to keep everyone up to date with industry trends. Used AI tools for code generation, architecture design, and adding new features, improving project efficiency and outcomes
+
+
+Manager support:
+I have been involved in both client and internal projects, focusing on front-end design and development. I’ve tried to contribute as much as I can and learn from each opportunity. As I look ahead, I am interested in moving into a more advanced role within the company, and I would appreciate your support in achieving that.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
